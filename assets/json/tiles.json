@@ -1,0 +1,15 @@
+{
+  "Tiles":{
+    "AIR":{"name": "Air","texturePath": "assets/textures/blocks/air.png","solid":false},
+    "ERROR":{"name": "Error","texturePath": "assets/textures/blocks/error.png","solid":false},
+    "DIRT":{"name": "Dirt","texturePath": "assets/textures/blocks/dirt.png","solid":true},
+    "GRASS":{"name": "Grass","texturePath": "assets/textures/blocks/grass.png","solid":true},
+    "STONE":{"name": "Stone","texturePath": "assets/textures/blocks/stone.png","solid":true},
+    "COAL":{"name": "Coal","texturePath": "assets/textures/blocks/coal.png","solid":true},
+    "IRON":{"name": "Iron","texturePath": "assets/textures/blocks/iron.png","solid":true},
+    "SILVER":{"name": "Silver","texturePath": "assets/textures/blocks/silver.png","solid":true},
+    "GOLD":{"name": "Gold","texturePath": "assets/textures/blocks/gold.png","solid":true},
+    "COREDIUM":{"name": "Coredium","texturePath": "assets/textures/blocks/coredium.png","solid":true},
+    "SKYRITE":{"name": "Skyrite","texturePath": "assets/textures/blocks/skyrite.png","solid":true}
+  }
+}

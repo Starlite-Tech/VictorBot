@@ -1,0 +1,7 @@
+{
+  "COMMENT": "This is depricated (was actually never implemented.)"
+  "Overworld":{
+    "Grass": {"Condition":"##Perlin_one_x##==##tile_y##", "Tiles":["GRASS"], "TileRarity":[1]},
+    "DIRT":  {"Condition":"##tile_y##<##Perlin_one_x##", "Tiles":["DIRT"], "TileRarity":[1]}
+  }
+}
